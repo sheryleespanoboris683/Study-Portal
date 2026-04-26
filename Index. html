@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Study Portal</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Study Portal</h1>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Courses</a>
+<a href="#">Dashboard</a>
+<a href="#">Profile</a>
+<a href="#">Logout</a>
+</nav>
+
+</header>
+
+<div class="container">
+
+<main>
+
+<h2>Lesson Title</h2>
+
+<video controls width="100%">
+<source src="lesson.mp4" type="video/mp4">
+</video>
+
+<br><br>
+
+<button>Start Lesson</button>
+<button>Submit</button>
+<button>Next</button>
+
+</main>
+
+<aside>
+
+<h3>Resources</h3>
+
+<ul>
+<li>Notes</li>
+<li>Links</li>
+<li>Files</li>
+</ul>
+
+</aside>
+
+</div>
+
+<footer>
+Contact | About | Help | Copyright © 2026
+</footer>
+
+</body>
+</html>
